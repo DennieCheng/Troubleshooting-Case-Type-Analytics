@@ -12,3 +12,6 @@ ggplot2
 # Prediction Model
 Multinomial Regression;
 Random Forest
+
+# Other tools assisted analyzing
+Tableau 
