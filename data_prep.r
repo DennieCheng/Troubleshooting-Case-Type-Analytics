@@ -12,8 +12,8 @@ library(randomForest)
 library(ggplot2)
 
 ####Change the project path to your local directory
-prj_path <- "/Users/NINI/Desktop/Master Degree of Business Analytics/Courses/290 Analytics Tech Consulting/Cable co. Project/KPMG/"
-data_path <- "ChinaTelecomData.csv"
+prj_path <- "/Users/NINI"
+data_path <- "CablecoData.csv"
 data <- read.csv(paste0(prj_path, data_path))
 dim(data)
 head(data)
